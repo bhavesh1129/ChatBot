@@ -4,5 +4,3 @@
 <img src="https://github.com/bhavesh1129/ChatBot/blob/main/client/assets/Readme_Images/2.png" />
 <img src="https://github.com/bhavesh1129/ChatBot/blob/main/client/assets/Readme_Images/3.png" />
 <img src="https://github.com/bhavesh1129/ChatBot/blob/main/client/assets/Readme_Images/4.png" />
-
-#### Credits: JS Mastery💖
